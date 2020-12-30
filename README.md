@@ -5,16 +5,10 @@
 
 **Note**: We currently only work on iTerm2 and the native Terminal on macOS.
 
-### Installation
-1. Make sure you have Fig (version 1.0.20 or above) installed. We are currently in private beta. Sign up to our waitlist here: [https://withfig.com](https://withfig.com?ref=github_autocomplete)
-
-2. Install the completion specs to your local device
-
-```bash
-$ fig update
-```
-
-3. In the Mac status bar (top right corner of the screen), click the Fig icon, and make sure *Autocomplete* is selected. If Autocomplete ever stops working, just toggle this button.
+## Our Repos
+- [withfig/fig](https://github.com/withfig/fig): The central repo. All issues taken here.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete): Collection of all specs for [autocomplete](https://docs.withfig.com/autocomplete). Contribute new specs and update old specs here.
+- [withfig/config](https://github.com/withfig/config): Fig's default configuration at install. Contains apps, installation, and update scripts.
 
 <br />
 <p>Email us any time: <a href="mailto:hello@withfig.com">hello@withfig.com</a></p>
